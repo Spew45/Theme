@@ -1,8 +1,9 @@
 {
-    "name": "Theme",
+    "name": "Just A Color Theme",
     "displayName": "Spews Blue Color Theme",
     "description": "Just A Theme",
     "version": "0.0.1",
+    "publisher": "Spew",
     "engines": {
         "vscode": "^1.67.0"
     },
