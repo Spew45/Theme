@@ -260,7 +260,8 @@
 			"invalid.illegal"
 		  ],
 		  "settings": {
-			"foreground": "#8000FF"
+			"foreground": "#ff0000",
+			"fontStyle": "italic bold underline",
 		  }
 		},
 		{
