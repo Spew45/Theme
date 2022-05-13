@@ -1,9 +1,4 @@
 # Change Log
 
-All notable changes to the "Theme" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+May 12, 2022:{ - Changed the color of comments
+}
