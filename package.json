@@ -22,10 +22,10 @@
                 "path": "./themes/Spews Themes Blue.json"
             }
             {
-                "label": "Spews Green Theme",
+                "label": "Spew Themes Green",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Spews Themes Green.json"
-            }
+                "path": "./themes/Spew Themes Green.json"
+            },
         ]
     }
 }
