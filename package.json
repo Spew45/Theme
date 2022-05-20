@@ -2,7 +2,7 @@
     "name": "Theme532",
     "displayName": "Spews Color Theme",
     "description": "Just Some Simple Themes!",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "publisher": "Spew",
     "engines": {
       "vscode": "^1.67.0"
