@@ -22,7 +22,7 @@
                 "path": "./themes/Spews-Themes-Blue.json"
             }
             {
-                "label": "Spew Themes Green",
+                "label": "Spew Green Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Spews-Themes-Green.json"
             },
