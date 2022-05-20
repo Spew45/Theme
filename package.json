@@ -1,37 +1,26 @@
 {
-  "name": "Theme532",
-  "displayName": "Spews Color Theme",
-  "description": "Just Color Themes",
-  "version": "0.0.7",
-  "publisher": "Spew",
-  "engines": {
-    "vscode": "^1.67.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/spew45/Theme"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Spews Color Theme - Blue",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Spews-Themes-Blue.json"
-      },
-      {
-        "label": "Spews Color Theme - Green",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Spews-Themes-Green.json"
-      }
-    ]
-  },
-  "galleryBanner": {
-    "color": "#0d0f31",
-    "theme": "dark"
-  },
-  "icon": "icon.png",
-  "license": "MIT"
+    "name": "Theme532",
+    "displayName": "Spews Blue Color Theme",
+    "description": "Just A Theme",
+    "version": "0.0.6",
+    "publisher": "Spew",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Spew45/Theme"
+    },
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Spews Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Spews Theme-color-theme.json"
+            }
+        ]
+    }
 }
