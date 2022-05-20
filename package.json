@@ -3,7 +3,7 @@
   "displayName": "Spews Color Theme",
   "description": "Just Color Themes",
   "version": "0.0.7",
-  "publisher": "juanmnl",
+  "publisher": "Spew",
   "engines": {
     "vscode": "^1.16.0"
   },
