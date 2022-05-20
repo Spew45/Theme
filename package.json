@@ -19,12 +19,12 @@
             {
                 "label": "Spews Blue Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Spews Themes Blue.json"
+                "path": "./themes/Spews-Themes-Blue.json"
             }
             {
                 "label": "Spew Themes Green",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Spew Themes Green.json"
+                "path": "./themes/Spews-Themes-Green.json"
             },
         ]
     }
